@@ -1,0 +1,11 @@
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\bin\Debug\netcoreapp2.1\CleanStrikeImpl.deps.json
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\bin\Debug\netcoreapp2.1\CleanStrikeImpl.runtimeconfig.json
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\bin\Debug\netcoreapp2.1\CleanStrikeImpl.runtimeconfig.dev.json
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\bin\Debug\netcoreapp2.1\CleanStrikeImpl.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\bin\Debug\netcoreapp2.1\CleanStrikeImpl.pdb
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.csproj.CoreCompileInputs.cache
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.AssemblyInfoInputs.cache
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.AssemblyInfo.cs
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.pdb
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.csprojAssemblyReference.cache
