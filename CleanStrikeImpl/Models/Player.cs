@@ -7,9 +7,9 @@ namespace CleanStrikeImpl
     public class Player
     {
         public string Name { get; set; }
-        public int Points { get; set; }
-        public int Fouls { get; set; }
-        public int SuccessiveNonStrike { get; set; }
+        internal int Points { get; set; }
+        internal int Fouls { get; set; }
+        internal int SuccessiveNonStrike { get; set; }
 
         public Player(string name)
         {

@@ -8,7 +8,7 @@ namespace CleanStrikeImpl
     {
         public void Strike(Player player)
         {
-            if(CarromBoard.BlackCoins <= 1)
+            if (InterLocked.GetBlackCoins() <= 1)
                 throw new NoCoinException(Constants.Exceptions.Messages.NoCoins);
 
             player.Points += 2;

@@ -12,7 +12,7 @@ namespace CleanStrikeImpl
 
             if (player.SuccessiveNonStrike == 3)
             {
-                player.Points--;
+                player.Points -= 1;
                 player.SuccessiveNonStrike = 0;
             }
         }

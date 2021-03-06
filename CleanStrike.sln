@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.1340
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanStrike", "CleanStrike\CleanStrike.csproj", "{21CF83B2-E45B-4B36-A902-01CF422CFB0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanStrikeImpl", "CleanStrikeImpl\CleanStrikeImpl.csproj", "{CF69BAF7-5781-4012-92B6-D898EE8452D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanStrikeImpl", "CleanStrikeImpl\CleanStrikeImpl.csproj", "{CF69BAF7-5781-4012-92B6-D898EE8452D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanStrikeImpl.Tests", "CleanStrikeImpl.Tests\CleanStrikeImpl.Tests.csproj", "{38DD4111-F658-432B-982A-51FCD697DDA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CF69BAF7-5781-4012-92B6-D898EE8452D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF69BAF7-5781-4012-92B6-D898EE8452D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF69BAF7-5781-4012-92B6-D898EE8452D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DD4111-F658-432B-982A-51FCD697DDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DD4111-F658-432B-982A-51FCD697DDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DD4111-F658-432B-982A-51FCD697DDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DD4111-F658-432B-982A-51FCD697DDA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

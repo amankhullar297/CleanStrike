@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CleanStrikeImpl
+﻿namespace CleanStrikeImpl
 {
     internal class DefunctStrike : IStrike
     {
         public void Strike(Player player)
         {
-            if (CarromBoard.BlackCoins == 0)
+            if (InterLocked.GetBlackCoins() == 0)
                 throw new NoCoinException(Constants.Exceptions.Messages.NoCoins);
 
-            CarromBoard.BlackCoins--;
+            InterLocked.DecrementBlackCoins();
             player.Fouls++;
             player.Points -= 2;
 

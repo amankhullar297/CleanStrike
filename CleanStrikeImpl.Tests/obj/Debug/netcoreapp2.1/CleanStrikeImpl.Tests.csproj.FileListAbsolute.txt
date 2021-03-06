@@ -1,0 +1,17 @@
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.deps.json
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.runtimeconfig.json
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.runtimeconfig.dev.json
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.pdb
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\CleanStrikeImpl.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\bin\Debug\netcoreapp2.1\CleanStrikeImpl.pdb
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\obj\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.csprojAssemblyReference.cache
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\obj\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.csproj.CoreCompileInputs.cache
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\obj\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.AssemblyInfoInputs.cache
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\obj\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.AssemblyInfo.cs
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\obj\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.csproj.CopyComplete
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\obj\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.dll
+C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl.Tests\obj\Debug\netcoreapp2.1\CleanStrikeImpl.Tests.pdb

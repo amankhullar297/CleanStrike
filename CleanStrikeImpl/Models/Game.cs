@@ -17,7 +17,7 @@ namespace CleanStrikeImpl
             IsPlayer1Turn = true;
         }
 
-        public Game(Player player1, Player player2, int blackCoins, int redCoins) : this(player1, player2)
+        public Game(Player player1, Player player2, int blackCoins, int redCoins) : this (player1, player2)
         {
             CarromBoard.BlackCoins = blackCoins;
             CarromBoard.RedCoins = redCoins;
@@ -43,11 +43,13 @@ namespace CleanStrikeImpl
             }
             catch (Exception exception)
             {
-                if (exception.GetType() is NoCoinException)
+                if (exception is NoCoinException)
                 {
-                    return DeclareWinner();
+                    var output = DeclareWinner();
+                    return output;
                 }
 
+                else
                 throw exception;
             }
         }

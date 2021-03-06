@@ -8,4 +8,3 @@ C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2
 C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.AssemblyInfo.cs
 C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.dll
 C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.pdb
-C:\Users\akhullar\source\repos\CleanStrike\CleanStrikeImpl\obj\Debug\netcoreapp2.1\CleanStrikeImpl.csprojAssemblyReference.cache

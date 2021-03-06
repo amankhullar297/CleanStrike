@@ -12,7 +12,7 @@ namespace CleanStrikeImpl
                 throw new NoRedCoinException(Constants.Exceptions.Messages.NoRedCoin);
 
             player.Points += 3;
-            CarromBoard.RedCoins--;
+            InterLocked.DecrementRedCoins();
         }
     }
 }

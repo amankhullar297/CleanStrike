@@ -5,7 +5,6 @@ namespace CleanStrikeImpl
     internal static class StrikeFactory
     {
         private static Dictionary<StrikeType, IStrike> StrikeTypes = new Dictionary<StrikeType, IStrike>();
-        //Intitalize it again
 
         internal static IStrike GetStrikeType(StrikeType strikeType)
         {
